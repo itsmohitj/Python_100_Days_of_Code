@@ -8,3 +8,6 @@ This repo contains my project solutions for [100 Days of Python by Angela Yu](ht
 - Day 5 : [Password Generator](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_5_Password_Generator)
 - Day 7 : [Hangman](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_7_Hangman)
 - Day 8 : [Caesar Cipher](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_8_Caesar_Cipher)
+- Day 10 : [Calculator](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_10_Calculator)
+- Day 11 : [BlackJack](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_11_BlackJack)
+- Day 12 : [Number Guessing Game](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_12_Number_Guessing_Game)
