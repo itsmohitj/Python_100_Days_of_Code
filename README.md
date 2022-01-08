@@ -11,3 +11,4 @@ This repo contains my project solutions for [100 Days of Python by Angela Yu](ht
 - Day 10 : [Calculator](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_10_Calculator)
 - Day 11 : [BlackJack](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_11_BlackJack)
 - Day 12 : [Number Guessing Game](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_12_Number_Guessing_Game)
+- Day 13 : [Debugging](https://github.com/itsmohitj/Python_100_Days_of_Code/tree/main/Day_13_Debugging)
